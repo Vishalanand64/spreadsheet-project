@@ -1,4 +1,3 @@
-import React from 'react'
 import rightArrow from '../assets/rightArrow.png'
 import search from '../assets/search.png'
 import bell from '../assets/bell.png'

@@ -1,4 +1,4 @@
-import React from 'react'
+
 import rightArrow from '../assets/doubleRight.png'
 import hide from '../assets/hide.png'
 import sort from '../assets/sort.png'

@@ -1,4 +1,3 @@
-import React from "react";
 import file from "../assets/file.png";
 import reload from "../assets/reload.png";
 import branch from "../assets/branch.png";

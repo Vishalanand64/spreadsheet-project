@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import  { useState } from 'react'
 import MainHeader from './MainHeader'
 import Row from './Row'
 import plus from "../assets/plus.png"
